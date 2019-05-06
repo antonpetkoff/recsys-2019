@@ -48,6 +48,8 @@ MANIFEST
 # Per-project virtualenvs
 .venv*/
 
-notebooks
 recsys-challenge-2019-algorithm.iml
 *.ipynb_checkpoints
+
+# Visual Studio Code
+.vscode/
